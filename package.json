@@ -3,8 +3,13 @@
   "version": "2.0.0",
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
+<<<<<<< HEAD
     "вапрвапрвапр" : "asdasdfasdff",
     "preinstall": "npm run install:config && npm run install:config:base",
+=======
+    "asdfasdf" :  "asfdasdf",
+    "preinstall": "npm run install:config && npm run install:config:baseewewq",
+>>>>>>> branch1
     "postinstall": "rm -rf node_modules/markdownlint-cli/node_modules/markdownlint",
     "install:config": "cd packages/eslint-config-airbnb && npm prune && npm install",
     "install:config:base": "cd packages/eslint-config-airbnb-base && npm prune && npm install",
