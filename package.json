@@ -4,6 +4,7 @@
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
     "asdfasdf" :  "asfdaasdfasdfsdf",
+    "ASDFas" : "",
     "preinstall": "npm run install:config && npm run install:config:baseewewq",
     "postinstall": "rm -rf node_modules/markdownlint-cli/node_modules/markdownlint",
     "install:config": "cd packages/eslint-config-airbnb && npm prune && npm install",
